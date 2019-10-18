@@ -1,7 +1,13 @@
 .jumbotron  {
-  background-color: #b8f285;
+  /* background-image: url(https://live.staticflickr.com/4605/38874094224_e23d4bcf49_b.jpg); */
+
+  background-image: url(https://images-na.ssl-images-amazon.com/images/I/71tbNvruyML._SL1500_.jpg);
+  background-size: cover;
 }
 
-h1  {
-  color: #a1bd88;
+.resize {
+  width: 250px;
+  height: auto;
+  text-align: center;
+  margin-left: 10%;
 }
